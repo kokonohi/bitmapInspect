@@ -266,3 +266,10 @@ div.full p {
 	margin-left: -10px;
 	margin-right: -10px;
 }
+
+@media screen and (max-width: 400px) {
+	div.full p {
+		margin-left: 0px;
+		margin-right: 0px;
+	}
+}
